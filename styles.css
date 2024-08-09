@@ -1,0 +1,43 @@
+/* Global css preset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ h1{color: aqua;
+background-color: black;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 4rem;
+text-align: center;
+}
+.mr-biggs{
+    color: indianred;
+    text-decoration: aqua;
+    font-size: 2rem;
+    background-color: dodgerblue;
+    text-transform: uppercase;
+    
+}
+.macncheese{
+    color: midnightblue;
+    background-color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-overflow: clip;
+    text-align: center;
+}
+.bird{
+    color: chartreuse;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2rem;
+    background-color: darkmagenta;
+}
+h3{
+    font-size: 3rem;
+    color: black;
+    flood-color: aqua;
+    border-color: aquamarine;
+}
+.yellow{
+    background-color: black;
+}
+
